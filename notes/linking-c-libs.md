@@ -151,3 +151,5 @@ To create a Library of code you need to do the following:
        # in tcsh:
        setenv LD_LIBRARY_PATH /home/newhall/lib:$LD_LIBRARY_PATH
     </pre>
+
+from https://www.cs.swarthmore.edu/~newhall/unixhelp/howto_C_libraries.html
